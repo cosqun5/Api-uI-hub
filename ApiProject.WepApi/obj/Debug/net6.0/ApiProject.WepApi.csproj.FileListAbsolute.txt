@@ -114,3 +114,6 @@ C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\obj\Debug\net6.0\ApiProject
 C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\obj\Debug\net6.0\ApiProject.WepApi.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\obj\Debug\net6.0\ref\ApiProject.WepApi.dll
 C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\obj\Debug\net6.0\ApiProject.WepApi.sourcelink.json
+C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\LENOVO\Desktop\ApiProject\ApiProject.WepApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
