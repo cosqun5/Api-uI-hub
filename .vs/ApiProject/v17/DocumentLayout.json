@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|c:\\users\\lenovo\\desktop\\apiproject\\apiproject.wepapi\\validationrules\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|solutionrelative:apiproject.wepapi\\validationrules\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|c:\\users\\lenovo\\desktop\\apiproject\\apiproject.wepapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|solutionrelative:apiproject.wepapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|c:\\users\\lenovo\\desktop\\apiproject\\apiproject.wepapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|solutionrelative:apiproject.wepapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|c:\\users\\lenovo\\desktop\\apiproject\\apiproject.wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|solutionrelative:apiproject.wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|c:\\users\\lenovo\\desktop\\apiproject\\apiproject.wepapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|solutionrelative:apiproject.wepapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|c:\\users\\lenovo\\desktop\\apiproject\\apiproject.wepapi\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CC3910-ABAB-4520-94FD-1A7F99DA588C}|ApiProject.WepApi\\ApiProject.WepApi.csproj|solutionrelative:apiproject.wepapi\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Program.cs",
-              "RelativeDocumentMoniker": "ApiProject.WepApi\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Program.cs",
-              "RelativeToolTip": "ApiProject.WepApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "ApiProject.WepApi\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "ApiProject.WepApi\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T11:31:41.494Z",
+              "WhenOpened": "2025-08-30T13:54:24.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ApiProject.WepApi\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Entities\\Product.cs",
+              "RelativeToolTip": "ApiProject.WepApi\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:51:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateproductDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Dtos\\ProductDtos\\CreateproductDto.cs",
+              "RelativeDocumentMoniker": "ApiProject.WepApi\\Dtos\\ProductDtos\\CreateproductDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Dtos\\ProductDtos\\CreateproductDto.cs",
+              "RelativeToolTip": "ApiProject.WepApi\\Dtos\\ProductDtos\\CreateproductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:50:43.207Z",
               "EditorCaption": ""
             },
             {
@@ -53,22 +83,9 @@
               "RelativeDocumentMoniker": "ApiProject.WepApi\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ApiProject.WepApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwGQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T11:22:57.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\ValidationRules\\ProductValidator.cs",
-              "RelativeDocumentMoniker": "ApiProject.WepApi\\ValidationRules\\ProductValidator.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ApiProject\\ApiProject.WepApi\\ValidationRules\\ProductValidator.cs",
-              "RelativeToolTip": "ApiProject.WepApi\\ValidationRules\\ProductValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T11:11:04.608Z",
+              "WhenOpened": "2025-08-30T13:47:57.409Z",
               "EditorCaption": ""
             }
           ]
