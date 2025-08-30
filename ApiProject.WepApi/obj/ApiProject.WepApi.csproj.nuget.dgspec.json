@@ -52,7 +52,11 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[15.0.1, )"
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

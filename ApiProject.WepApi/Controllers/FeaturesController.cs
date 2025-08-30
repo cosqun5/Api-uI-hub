@@ -31,7 +31,7 @@ namespace ApiProject.WepApi.Controllers
 		{
 			var value = _mapper.Map<Feature>(creatFeatureDto);
 			_context.Features.Add(value);
-			//_context.SaveChanges();
+			_context.SaveChanges();
 			return Ok("Feature created");
 		}
 		[HttpDelete]
